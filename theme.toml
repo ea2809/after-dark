@@ -1,14 +1,15 @@
-name = "After Dark"
+name = "After Dark Green"
 license = "WTFPL"
-licenselink = "https://github.com/comfusion/after-dark/blob/master/COPYING"
-description = "A robust, elegant dark theme for Hugo."
+licenselink = "https://github.com/ea2809/after-dark-green/blob/master/COPYING"
+description = "A robust, elegant dark theme for Hugo. (Edited in green color)"
 homepage = "https://comfusion.github.io/after-dark/"
 tags = [
   "minimal",
   "responsive",
   "accessible",
   "terminal",
-  "dark"
+  "dark",
+  "green"
 ]
 features = [
   "Mobile-optimized",
